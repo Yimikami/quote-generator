@@ -1,15 +1,15 @@
-# Quote Generator
+<img align="right" height="350" src="https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fcheckpoint-project%2Fpost%2F1fLD7qAxvEC6ahdE6xNZ%2FMOV%20to%20GIF%20conversion.gif?alt=media&token=969213c9-e9e4-44b3-8f93-86e50f732c14"  />
 
 This is a simple Quote Generator application built with React. It fetches random quotes and corresponding images, displays them on the screen, and allows users to download the quote card as an image.
 
-## Features
+### Features
 
 - Fetches a random quote from an API
 - Fetches a random image based on the quote's category from Pexels
 - Displays the quote and image in a card format
 - Allows users to download the quote card as an image
 
-## Installation
+### Installation
 
 1. Clone the repository:
    ```sh
