@@ -155,7 +155,7 @@ export default function QuoteGenerator() {
           </p>
         )}
       </div>
-      <div className="mt-6">
+      <div className={quote.quote ? "flex justify-between mt-6" : "mt-6"}>
         <button
           data-html2canvas-ignore
           onClick={handleClick}
