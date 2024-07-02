@@ -16,8 +16,6 @@ This is a simple Quote Generator application built with React. It fetches random
    git clone https://github.com/your-username/quote-generator.git
    ```
 
-````
-
 2. Navigate to the project directory:
    ```sh
    cd quote-generator
@@ -40,10 +38,6 @@ VITE_X_RAPIDAPI_KEY=your_rapidapi_key
 VITE_PEXELS_ACCESS_KEY=your_pexels_access_key
 ```
 
-```
-VITE_X_RAPIDAPI_KEY=your_rapidapi_key
-VITE_PEXELS_ACCESS_KEY=your_pexels_access_key
-```
 
 ## Usage
 
@@ -59,6 +53,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Acknowledgements
 
-- Quotes API: [RapidAPI](https://rapidapi.com/)
+- Quotes API: [RapidAPI/eimaam](https://rapidapi.com/eimaam/api/get-quotes-api/)
 - Images API: [Pexels](https://www.pexels.com/)
-````
