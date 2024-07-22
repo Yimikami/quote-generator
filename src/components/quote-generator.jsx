@@ -2,9 +2,9 @@ import { useState } from "react";
 import html2canvas from "html2canvas";
 
 export default function QuoteGenerator() {
-  const [quote, setQuote] = useState([
+  const [quote, setQuote] = useState(
     { quote: "", author: "", category: "", description: "" },
-  ]);
+  );
   const [image, setImage] = useState("");
   const [tooltip, setTooltip] = useState(false);
 
